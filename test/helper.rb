@@ -16,3 +16,4 @@ require 'teamcity_rest'
 
 class Test::Unit::TestCase
 end
+

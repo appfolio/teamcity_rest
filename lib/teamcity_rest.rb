@@ -1,0 +1,5 @@
+require 'active_support/all'
+require 'rest_client'
+require 'teamcity/base'
+require 'teamcity/build_type'
+require 'teamcity/project'
